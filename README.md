@@ -1,4 +1,12 @@
-## Hi there 👋
+## 💐✨ 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘 𝓪𝓶 𝓔𝓵𝓸 ✨💐
+i am currently studying Chemistry and Chemical Engineering at EPFL
+
+i also like to read and learn about all subjects
+
+## " 𝔑𝔬𝔱𝔥𝔦𝔫𝔤 𝔦𝔫 𝔩𝔦𝔣𝔢 𝔥𝔞𝔰 𝔱𝔬 𝔟𝔢 𝔣𝔢𝔞𝔯𝔢𝔡, 𝔦𝔱 𝔦𝔰 𝔬𝔫𝔩𝔶 𝔱𝔬 𝔟𝔢 𝔲𝔫𝔡𝔢𝔯𝔰𝔱𝔬𝔬𝔡 "
+
+Marie Curie
+
 
 <!--
 **Elo1402/Elo1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
